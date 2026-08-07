@@ -1,66 +1,80 @@
-<div align="center">
-
 # Moh. Fadhailurrahman
-**Frontend-Focused Fullstack Developer**
 
-Building scalable, accessible, and high-performance web applications with a strong focus on clean UI/UX and modern frontend architecture.
+![GitHub Banner](img/heading-2.png)
 
-![Fadhailurrahman Banner](img/heading-2)
+# 👋 Hello, I'm Moh. Fadhailurrahman
 
-[LinkedIn](https://linkedin.com/in/moh_fadhailurrahman) • [Email](mailto:zalnaburfreelance@gmail.com) • [GitHub](https://github.com/Fadhailurrahman)
+### Full-Stack Developer | AI Engineering Enthusiast
 
-</div>
-
----
-
-**About Me**
-
-I am a web developer specializing in modern frontend architectures and component-driven design. My core workflow revolves around building responsive user interfaces, optimizing rendering performance, and applying strict type safety across the application lifecycle. I focus on learning by execution—translating complex requirements into clean, maintainable code while expanding my capabilities in fullstack web systems and AI integrations.
+> *Building Ethical Technology as a Santri.*
 
 ---
 
-**Tech Stack & Capabilities**
+## 🚀 About Me
 
-| Domain | Core Technologies & Tools |
+I am a passionate software developer who enjoys transforming complex ideas into modern, maintainable, and user-focused web applications. My primary work spans **Full-Stack Web Development** and **AI Engineering**, where I focus on real-world implementation, clean code principles, and scalable software architecture.
+
+I believe that writing software is not only about solving technical problems, but also about creating technology that is useful, responsible, and beneficial for society.
+
+**Current Engineering Focus:**
+- Modern Frontend Architecture (Next.js App Router, React, TypeScript)
+- Scalable Backend API Development & System Design
+- AI & Machine Learning Fundamentals (FastAPI, Python NLP)
+- DevOps Basics (Docker, CI/CD) and Open Source Collaboration
+
+---
+
+## 🛠 Tech Stack & Capabilities
+
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3/Sass |
-| **Backend & APIs** | Node.js, Express.js, RESTful API Integration, Python |
-| **Architecture & Tools** | Git/GitHub Workflow, Atomic Design Systems, Progressive Web Apps (PWA), Vite, Vercel |
+| **Frontend** | React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
+| **Backend & AI** | Node.js, Express.js, REST API, Python (FastAPI, NLP) |
+| **Databases** | PostgreSQL, MySQL, Firebase |
+| **Tools & DevOps** | Git, GitHub, Docker, Vite, VS Code, Postman, Vercel |
 
 ---
 
-**Featured Projects**
+## 📌 Featured Projects
 
-* **TELCO-FE**
-  * **Tech Stack:** Next.js, TypeScript, Atomic Design, Tailwind CSS
-  * **Summary:** Telecommunications web interface built using a modular Atomic Design file structure to ensure scalable component reusability and clean state management.
-  * **Repository:** [View Project](https://github.com/Fadhailurrahman/TELCO-FE)
+* **📡 TELCO-FE**
+  * **Description:** A modern telecommunication frontend platform engineered with Next.js using a highly scalable component-based architecture and strict type safety.
+  * **Tech Stack:** Next.js, TypeScript, Tailwind CSS
+  * **Repository:** [github.com/Fadhailurrahman/TELCO-FE](https://github.com/Fadhailurrahman/TELCO-FE)
 
-* **Smart Review Guard (AI Fake Review Detector)**
-  * **Tech Stack:** React.js, FastAPI, Python, NLP
-  * **Summary:** An AI-powered application designed to analyze product reviews, identifying suspicious patterns and sentiment anomalies in real time.
-  * **Repository:** [View Project](https://github.com/Fadhailurrahman/Smart-Review-Guard)
+* **🤖 Smart Review Guard**
+  * **Description:** An AI-powered application designed to analyze product feedback and detect fake reviews using Natural Language Processing.
+  * **Tech Stack:** React, FastAPI, Python, NLP
+  * **Repository:** [github.com/Fadhailurrahman/Smart-Review-Guard](https://github.com/Fadhailurrahman/Smart-Review-Guard)
 
-* **DhailShop PWA**
-  * **Tech Stack:** JavaScript, Service Workers, Web Manifest, CSS3[cite: 1]
-  * **Summary:** A Progressive Web Application engineered with offline-first capabilities and optimized caching strategies for seamless performance across modern devices[cite: 1].
-  * **Repository:** [View Project](https://github.com/Fadhailurrahman/dhailshop-pwa-fixed)[cite: 1]
+* **🛒 DhailShop PWA**
+  * **Description:** A Progressive Web Application featuring offline-first functionality powered by Service Workers and local caching strategies[cite: 1].
+  * **Tech Stack:** JavaScript, HTML5, CSS3, Service Workers[cite: 1]
+  * **Repository:** [github.com/Fadhailurrahman/dhailshop-pwa-fixed](https://github.com/Fadhailurrahman/dhailshop-pwa-fixed)[cite: 1]
 
 ---
 
-**GitHub Activity**
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fadhailurrahman&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhailurrahman&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [github.com/Fadhailurrahman](https://github.com/Fadhailurrahman)[cite: 1]
+- **LinkedIn:** [linkedin.com/in/moh_fadhailurrahman](https://www.linkedin.com/in/moh-fadhailurrahman-79748637b)[cite: 1]
+- **Email:** zalnaburfreelance@gmail.com[cite: 1]
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fadhailurrahman&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhailurrahman&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+### *"Building Ethical Technology as a Santri."*
+
+Always learning. Always improving.
 
 </div>
-
----
-
-**Connect**
-
-* **LinkedIn:** [linkedin.com/in/moh_fadhailurrahman](https://linkedin.com/in/moh_fadhailurrahman)
-* **Email:** zalnaburfreelance@gmail.com[cite: 1]
-* **Location:** East Java, Indonesia
