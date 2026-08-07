@@ -1,7 +1,7 @@
 ## Hi, I'm Moh. Fadhailurrahman 👋  
 Frontend-focused Fullstack Developer | Learning by Building
 
-![Fadhailurrahman Banner](img/heading-1.png)
+![Fadhailurrahman Banner](img/heading-2.png)
 
 ---
 
