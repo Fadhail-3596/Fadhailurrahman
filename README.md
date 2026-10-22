@@ -1,7 +1,7 @@
 # Moh. Fadhailurrahman
 
 <p align="center">
-  <img src="img/header.png" alt="Fadhail's GitHub Banner" width="100%" />
+  <img src="img/header-fix.png" alt="Fadhail's GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Fadhail 👋</h1>
