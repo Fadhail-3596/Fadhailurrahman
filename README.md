@@ -1,80 +1,118 @@
 # Moh. Fadhailurrahman
 
-![GitHub Banner](img/heading-2.png)
+<p align="center">
+  <img src="img/heading-2.png" alt="Fadhail's GitHub Banner" width="100%" />
+</p>
 
-# 👋 Hello, I'm Moh. Fadhailurrahman
+<h1 align="center">Hi, I'm Fadhail 👋</h1>
 
-### Full-Stack Developer | AI Engineering Enthusiast
+<h3 align="center">Builder · Web Developer · AI/ML Explorer</h3>
 
-> *Building Ethical Technology as a Santri.*
-
----
-
-## 🚀 About Me
-
-I am a passionate software developer who enjoys transforming complex ideas into modern, maintainable, and user-focused web applications. My primary work spans **Full-Stack Web Development** and **AI Engineering**, where I focus on real-world implementation, clean code principles, and scalable software architecture.
-
-I believe that writing software is not only about solving technical problems, but also about creating technology that is useful, responsible, and beneficial for society.
-
-**Current Engineering Focus:**
-- Modern Frontend Architecture (Next.js App Router, React, TypeScript)
-- Scalable Backend API Development & System Design
-- AI & Machine Learning Fundamentals (FastAPI, Python NLP)
-- DevOps Basics (Docker, CI/CD) and Open Source Collaboration
+<p align="center">
+  <em>Building meaningful technology with purpose.</em>
+</p>
 
 ---
 
-## 🛠 Tech Stack & Capabilities
+## 👨‍💻 About Me
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
-| **Backend & AI** | Node.js, Express.js, REST API, Python (FastAPI, NLP) |
-| **Databases** | PostgreSQL, MySQL, Firebase |
-| **Tools & DevOps** | Git, GitHub, Docker, Vite, VS Code, Postman, Vercel |
+I'm a **Santri and Qur'anic Studies and Tafsir student at Universitas Annuqayah** with a growing interest in web development, Artificial Intelligence, and Machine Learning.
+
+I enjoy turning ideas into digital projects, exploring new technologies, and documenting what I learn through technical writing.
+
+- 🎓 **Background:** Qur'anic Studies and Tafsir at Universitas Annuqayah
+- 🌐 **Exploring:** Web development and modern web applications
+- 🤖 **Learning:** Machine Learning, Deep Learning, and Natural Language Processing
+- ✍️ **Interested in:** Technical writing and knowledge sharing
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+|:---|:---|
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Python, Flask, REST APIs |
+| **AI / Machine Learning** | Pandas, Scikit-learn, TensorFlow/Keras, TF-IDF, NLP |
+| **Data Processing** | Requests, BeautifulSoup, CSV |
+| **Tools & Design** | Git, GitHub, VS Code, Vite, Postman, Figma |
+| **Deployment** | Vercel, Netlify |
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-* **📡 TELCO-FE**
-  * **Description:** A modern telecommunication frontend platform engineered with Next.js using a highly scalable component-based architecture and strict type safety.
-  * **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-  * **Repository:** [github.com/Fadhailurrahman/TELCO-FE](https://github.com/Fadhailurrahman/TELCO-FE)
+### 🤖 AI, Machine Learning & Deep Learning
 
-* **🤖 Smart Review Guard**
-  * **Description:** An AI-powered application designed to analyze product feedback and detect fake reviews using Natural Language Processing.
-  * **Tech Stack:** React, FastAPI, Python, NLP
-  * **Repository:** [github.com/Fadhailurrahman/Smart-Review-Guard](https://github.com/Fadhailurrahman/Smart-Review-Guard)
+#### 📊 [Student Performance Prediction](https://github.com/Fadhail-3596/student-performance-prediction)
 
-* **🛒 DhailShop PWA**
-  * **Description:** A Progressive Web Application featuring offline-first functionality powered by Service Workers and local caching strategies[cite: 1].
-  * **Tech Stack:** JavaScript, HTML5, CSS3, Service Workers[cite: 1]
-  * **Repository:** [github.com/Fadhailurrahman/dhailshop-pwa-fixed](https://github.com/Fadhailurrahman/dhailshop-pwa-fixed)[cite: 1]
+Predicts students' final grades (G3) using demographic, family, social, and study-habit features from the UCI Student Performance dataset. Compares regression models using MAE, RMSE, and R².
+
+**Tech Stack:** Python · Machine Learning · Regression
+
+#### 💬 [E-Commerce Review Sentiment Analysis](https://github.com/Fadhail-3596/sentiment-analysis-lstm)
+
+Classifies e-commerce product reviews as positive, neutral, or negative by comparing a TF-IDF and Logistic Regression baseline with a Bidirectional LSTM model.
+
+**Tech Stack:** Python · TF-IDF · Logistic Regression · TensorFlow/Keras · Bidirectional LSTM
+
+### 🌐 Web Applications
+
+#### 🎓 [Tes Minat Bakat Universitas Annuqayah](https://github.com/Fadhail-3596/tes-minat-bakat-annuqa) · [Live Demo](https://tmb-univ-annuqayah.netlify.app/)
+
+An academic-interest assessment application that evaluates interests across six fields, recommends study programs, and provides a printable results report.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+#### 📖 [JSQT Archive](https://github.com/Fadhail-3596/jsqt-archive) · [Live Demo](https://jsqt-archive.vercel.app/)
+
+A searchable archive of JSQT journal articles featuring subject and volume filters, article and PDF links, and citation copying.
+
+#### 🎮 [MPL ID S18 Playoff Predictor](https://github.com/Fadhail-3596/mpl-s18) · [Live Demo](https://mpl-s18.vercel.app/)
+
+An interactive predictor for tracking MPL Indonesia Season 18 standings and simulating match outcomes to estimate playoff qualification chances.
+
+#### ✍️ [Personal Blog & Article Platform](https://github.com/Fadhail-3596/blog-artikel)
+
+A personal publishing platform for sharing articles, reflections, technology insights, and journal reviews.
+
+**Tech Stack:** Next.js · React · Tailwind CSS · JavaScript · Markdown/MDX
+
+### 🛠️ Other Projects
+
+#### 📘 [Fundamental Pemrograman](https://github.com/Fadhail-3596/fundamentals-of-programming)
+
+An Indonesian-language learning repository covering programming fundamentals, documentation, debugging, error analysis, and code reading.
+
+#### 🕸️ [SpecialSkill Article Scraper](https://github.com/Fadhail-3596/scraping-specialskill)
+
+A Python-based scraper that collects articles from multiple SpecialSkill.id categories and organizes the results into structured CSV data.
+
+**Tech Stack:** Python · Requests · Pandas · BeautifulSoup
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fadhailurrahman&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhailurrahman&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fadhail-3596&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Fadhail's GitHub Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhail-3596&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhail-3596&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- **GitHub:** [github.com/Fadhailurrahman](https://github.com/Fadhailurrahman)[cite: 1]
-- **LinkedIn:** [linkedin.com/in/moh_fadhailurrahman](https://www.linkedin.com/in/moh-fadhailurrahman-79748637b)[cite: 1]
-- **Email:** zalnaburfreelance@gmail.com[cite: 1]
+- 🌐 **Portfolio:** [fadhail.my.id](https://fadhail.my.id)
+- 🐙 **GitHub:** [@Fadhail-3596](https://github.com/Fadhail-3596)
+- 💼 **LinkedIn:** [Moh. Fadhailurrahman](https://www.linkedin.com/in/moh-fadhailurrahman-79748637b)
+- 📧 **Email:** [zalnaburfreelance@gmail.com](mailto:zalnaburfreelance@gmail.com)
+- 📸 **Instagram:** [@moh_fadhailurrahman](https://www.instagram.com/moh_fadhailurrahman)
 
 ---
 
-<div align="center">
-
-### *"Building Ethical Technology as a Santri."*
-
-Always learning. Always improving.
-
-</div>
+<p align="center">
+  <em>Always learning, building, and sharing.</em>
+</p>
